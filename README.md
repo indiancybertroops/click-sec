@@ -65,6 +65,7 @@ sudo bash click-sec.sh
 
 >Instagram
 https://instagram.com/krishanuIND
+
 >Instagram
 https://instagram.com/Indiancybertroops
 
